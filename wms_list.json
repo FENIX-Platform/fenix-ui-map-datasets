@@ -1,0 +1,12 @@
+            url: 'http://fenix.fao.org/demo/fenix/geoserver/earthstat/wms'
+            url: 'http://fenix.fao.org/demo/ghg/geoserver/wms'
+            //url: 'http://data.fao.org/maps/wms?AUTHKEY=d30aebf0-ab2a-11e1-afa6-0800200c9a66'
+            url: 'http://data.fao.org/maps/wms'
+            url: 'http://rdc-snsf.org/diss_geoserver/gwc/service/wms'
+            url: 'http://geo.sv.rostock.de/geodienste/verwaltung/wms'
+//            url: 'http://wms.pcn.minambiente.it/ogc?map=/ms_ogc/WMS_v1.3/raster/de_agostini.map'
+            url: 'http://geoportal.logcluster.org:8081/gp_map_service201/wms'
+            url: 'http://data.wien.gv.at/daten/wms'
+            url: 'http://data.wien.gv.at/daten/wms'
+            url: 'http://eusoils.jrc.ec.europa.eu/wrb/wms_Threats.asp'
+            url: 'http://carto.iict.ch/geoserver/wms',
